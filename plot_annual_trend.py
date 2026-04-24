@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.14
+#!/usr/bin/env python3.12
 """
 연도별 논문 수 추이 시각화
 데이터: savedrecs.txt / savedrecs-2.txt / savedrecs-3.txt (WoS, 총 1,500편)

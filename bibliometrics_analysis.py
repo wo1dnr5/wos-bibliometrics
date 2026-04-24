@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.14
+#!/usr/bin/env python3.12
 """
 Web of Science 서지분석 (Bibliometrics Analysis)
 분야: 비디오 분석/검색/요약 (Video Analysis, Retrieval, Summarization)
