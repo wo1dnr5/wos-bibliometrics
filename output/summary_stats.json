@@ -1,0 +1,320 @@
+{
+  "total_records": 1500,
+  "year_range": [
+    1986,
+    2026
+  ],
+  "avg_tc": 18.73,
+  "median_tc": 6.0,
+  "total_citations": 28097,
+  "h_index_corpus": 74,
+  "top5_journals": {
+    "MULTIMEDIA TOOLS AND APPLICATIONS": 40,
+    "IEEE TRANSACTIONS ON MULTIMEDIA": 34,
+    "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY": 27,
+    "DIGITAL HEALTH": 16,
+    "IEEE ACCESS": 15
+  },
+  "top5_authors": {
+    "Schoeffmann, Klaus": 13,
+    "Zhang, HJ": 12,
+    "Wang, Shangfei": 9,
+    "Mezaris, Vasileios": 9,
+    "Dimitrova, N": 8
+  },
+  "top5_countries": {
+    "China": 750,
+    "India": 171,
+    "South Korea": 131,
+    "Turkiye": 106,
+    "England": 92
+  },
+  "top5_categories": {
+    "Computer Science, Artificial Intelligence": 315,
+    "Computer Science, Information Systems": 259,
+    "Engineering, Electrical & Electronic": 250,
+    "Telecommunications": 175,
+    "Computer Science, Theory & Methods": 172
+  },
+  "top10_cited_papers": [
+    {
+      "TI": "I Tube, You Tube, Everybody Tubes: Analyzing the World's Largest User Generated Content Video System",
+      "PY": 2007,
+      "TC": 562
+    },
+    {
+      "TI": "Convolutional MKL Based Multimodal Emotion Recognition and Sentiment Analysis",
+      "PY": 2016,
+      "TC": 450
+    },
+    {
+      "TI": "A Survey on Visual Content-Based Video Indexing and Retrieval",
+      "PY": 2011,
+      "TC": 368
+    },
+    {
+      "TI": "Affective video content representation and modeling",
+      "PY": 2005,
+      "TC": 364
+    },
+    {
+      "TI": "Aggression and Sexual Behavior in Best-Selling Pornography Videos: A Content Analysis Update",
+      "PY": 2010,
+      "TC": 364
+    },
+    {
+      "TI": "Publicly Private and Privately Public: Social Networking on YouTube",
+      "PY": 2007,
+      "TC": 345
+    },
+    {
+      "TI": "A generic framework of user attention model and its application in video summarization",
+      "PY": 2005,
+      "TC": 344
+    },
+    {
+      "TI": "Shot-boundary detection: Unraveled and resolved?",
+      "PY": 2002,
+      "TC": 295
+    },
+    {
+      "TI": "An anatomy of a YouTube meme",
+      "PY": 2012,
+      "TC": 295
+    },
+    {
+      "TI": "An integrated system for content-based video retrieval and browsing",
+      "PY": 1997,
+      "TC": 285
+    }
+  ],
+  "top10_h_index_authors": [
+    {
+      "Author": "Zhang, HJ",
+      "Papers": 12,
+      "H-index": 10,
+      "Total_Citations": 1321
+    },
+    {
+      "Author": "Schoeffmann, Klaus",
+      "Papers": 13,
+      "H-index": 9,
+      "Total_Citations": 264
+    },
+    {
+      "Author": "Mei, Tao",
+      "Papers": 7,
+      "H-index": 6,
+      "Total_Citations": 151
+    },
+    {
+      "Author": "Hanjalic, A",
+      "Papers": 5,
+      "H-index": 5,
+      "Total_Citations": 1007
+    },
+    {
+      "Author": "Vrochidis, Stefanos",
+      "Papers": 6,
+      "H-index": 5,
+      "Total_Citations": 130
+    },
+    {
+      "Author": "Bailer, Werner",
+      "Papers": 6,
+      "H-index": 5,
+      "Total_Citations": 194
+    },
+    {
+      "Author": "Lokoc, Jakub",
+      "Papers": 6,
+      "H-index": 5,
+      "Total_Citations": 194
+    },
+    {
+      "Author": "Boeszoermenyi, Laszlo",
+      "Papers": 6,
+      "H-index": 5,
+      "Total_Citations": 56
+    },
+    {
+      "Author": "Hua, Xian-Sheng",
+      "Papers": 6,
+      "H-index": 5,
+      "Total_Citations": 141
+    },
+    {
+      "Author": "Yeo, BL",
+      "Papers": 6,
+      "H-index": 5,
+      "Total_Citations": 379
+    }
+  ],
+  "annual_stats": [
+    {
+      "PY": 1993,
+      "count": 1,
+      "total_tc": 6
+    },
+    {
+      "PY": 1995,
+      "count": 1,
+      "total_tc": 76
+    },
+    {
+      "PY": 1996,
+      "count": 1,
+      "total_tc": 214
+    },
+    {
+      "PY": 1997,
+      "count": 16,
+      "total_tc": 662
+    },
+    {
+      "PY": 1998,
+      "count": 16,
+      "total_tc": 301
+    },
+    {
+      "PY": 1999,
+      "count": 10,
+      "total_tc": 521
+    },
+    {
+      "PY": 2000,
+      "count": 19,
+      "total_tc": 432
+    },
+    {
+      "PY": 2001,
+      "count": 12,
+      "total_tc": 144
+    },
+    {
+      "PY": 2002,
+      "count": 22,
+      "total_tc": 700
+    },
+    {
+      "PY": 2003,
+      "count": 23,
+      "total_tc": 151
+    },
+    {
+      "PY": 2004,
+      "count": 25,
+      "total_tc": 366
+    },
+    {
+      "PY": 2005,
+      "count": 37,
+      "total_tc": 1005
+    },
+    {
+      "PY": 2006,
+      "count": 36,
+      "total_tc": 258
+    },
+    {
+      "PY": 2007,
+      "count": 28,
+      "total_tc": 1398
+    },
+    {
+      "PY": 2008,
+      "count": 40,
+      "total_tc": 838
+    },
+    {
+      "PY": 2009,
+      "count": 31,
+      "total_tc": 636
+    },
+    {
+      "PY": 2010,
+      "count": 30,
+      "total_tc": 962
+    },
+    {
+      "PY": 2011,
+      "count": 25,
+      "total_tc": 849
+    },
+    {
+      "PY": 2012,
+      "count": 40,
+      "total_tc": 1267
+    },
+    {
+      "PY": 2013,
+      "count": 47,
+      "total_tc": 941
+    },
+    {
+      "PY": 2014,
+      "count": 43,
+      "total_tc": 824
+    },
+    {
+      "PY": 2015,
+      "count": 50,
+      "total_tc": 1322
+    },
+    {
+      "PY": 2016,
+      "count": 66,
+      "total_tc": 1664
+    },
+    {
+      "PY": 2017,
+      "count": 59,
+      "total_tc": 1127
+    },
+    {
+      "PY": 2018,
+      "count": 69,
+      "total_tc": 1512
+    },
+    {
+      "PY": 2019,
+      "count": 76,
+      "total_tc": 1361
+    },
+    {
+      "PY": 2020,
+      "count": 62,
+      "total_tc": 1535
+    },
+    {
+      "PY": 2021,
+      "count": 101,
+      "total_tc": 2563
+    },
+    {
+      "PY": 2022,
+      "count": 105,
+      "total_tc": 1523
+    },
+    {
+      "PY": 2023,
+      "count": 105,
+      "total_tc": 1331
+    },
+    {
+      "PY": 2024,
+      "count": 134,
+      "total_tc": 1069
+    },
+    {
+      "PY": 2025,
+      "count": 143,
+      "total_tc": 460
+    },
+    {
+      "PY": 2026,
+      "count": 26,
+      "total_tc": 6
+    }
+  ]
+}
